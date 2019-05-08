@@ -1,0 +1,17 @@
+<?php
+/**
+*Routes file contains all the routes.
+*
+*Routes file return a three dimensional associative array
+*where first array's keys are route type like GET,POST etc
+*and second array contain route as
+*
+*@author Mukarram Ishaq
+*/
+use Core\Router;
+
+//write your routes here
+Router::remember('student/show',['controller'=>'StudentController', 'action'=>'index', 'url_params'=>['id']]);
+Router::remember('student/sho/',['controller'=>'StudentController', 'action'=>'index']);
+
+

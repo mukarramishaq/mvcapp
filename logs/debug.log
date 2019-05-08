@@ -1,0 +1,3297 @@
+[2018-09-13 05:09:03] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:00] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:04] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-13 05:09:07] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:14] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-13 05:09:53] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:15] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 6
+        )
+
+)
+
+[2018-09-13 05:09:36] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:42] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-13 05:09:04] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:08] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-13 05:09:12] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:32] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 8
+        )
+
+)
+
+[2018-09-13 05:09:47] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => credit_hours
+)
+
+[2018-09-13 05:09:56] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-13 05:09:33] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => credit_hours
+)
+
+[2018-09-13 05:09:48] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-13 05:09:54] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 05:09:12] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 10
+        )
+
+)
+
+[2018-09-13 06:09:04] [/var/www/html/testload/core/controllers/traits/cRUD.php] [69] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 06:09:06] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 06:09:42] [/var/www/html/testload/core/log.php] [11] Array
+(
+    [id] => 5
+    [name] => Mukish
+    [roll_no] => 2000
+)
+
+[2018-09-13 06:09:42] [/var/www/html/testload/core/log.php] [11] Core\Models\BaseModel::__set_state(array(
+   'table' => 'students',
+   'primaryField' => 'id',
+   'database' => 
+  Core\Models\Database\MysqlGate::__set_state(array(
+     'pdo' => 
+    PDO::__set_state(array(
+    )),
+  )),
+   'allProperties' => 
+  array (
+    0 => 'id',
+    1 => 'name',
+    2 => 'roll_no',
+  ),
+   'id' => '5',
+   'name' => 'Mukish',
+   'roll_no' => '2000',
+))
+[2018-09-13 06:09:32] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'student/create',
+   'actualURL' => '/testload/student/create',
+   'method' => 'GET',
+   'input' => 
+  array (
+  ),
+))
+[2018-09-13 06:09:36] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'student/create',
+   'actualURL' => '/testload/student/create',
+   'method' => 'POST',
+   'input' => 
+  array (
+    'id' => '2',
+    'name' => 'Mukish',
+    'roll_no' => '2000',
+  ),
+))
+[2018-09-13 06:09:36] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-13 06:09:40] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'student/create',
+   'actualURL' => '/testload/student/create',
+   'method' => 'GET',
+   'input' => 
+  array (
+  ),
+))
+[2018-09-13 06:09:44] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'student/create',
+   'actualURL' => '/testload/student/create',
+   'method' => 'POST',
+   'input' => 
+  array (
+    'id' => '5',
+    'name' => 'Mukish',
+    'roll_no' => '2000',
+  ),
+))
+[2018-09-13 06:09:44] [/var/www/html/testload/core/log.php] [11] Array
+(
+    [id] => 5
+    [name] => Mukish
+    [roll_no] => 2000
+)
+
+[2018-09-13 06:09:44] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-13 06:09:44] [/var/www/html/testload/core/log.php] [11] Core\Models\BaseModel::__set_state(array(
+   'table' => 'students',
+   'primaryField' => 'id',
+   'database' => 
+  Core\Models\Database\MysqlGate::__set_state(array(
+     'pdo' => 
+    PDO::__set_state(array(
+    )),
+  )),
+   'allProperties' => 
+  array (
+    0 => 'id',
+    1 => 'name',
+    2 => 'roll_no',
+  ),
+   'id' => '5',
+   'name' => 'Mukish',
+   'roll_no' => '2000',
+))
+[2018-09-13 06:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 06:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-13 06:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-13 06:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-13 07:09:16] [/var/www/html/testload/core/log.php] [11] I am in home hahah.
+[2018-09-13 07:09:20] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 07:09:20] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-13 07:09:20] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-13 07:09:20] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-13 07:09:25] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 07:09:29] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 07:09:29] [/var/www/html/testload/core/controllers/traits/cRUD.php] [82] Array
+(
+    [0] => id
+    [1] => name
+    [2] => roll_no
+)
+
+[2018-09-13 07:09:35] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 07:09:35] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 07:09:37] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 07:09:37] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-13 07:09:37] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-13 07:09:37] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-13 07:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-13 07:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-13 07:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-13 07:09:46] [/var/www/html/testload/core/models/baseModel.php] [75] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 10:09:36] [/var/www/html/testload/core/log.php] [11] I am in home hahah.
+[2018-09-14 10:09:38] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 10:09:38] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 10:09:38] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 10:09:38] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 10:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 10:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 10:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 10:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 10:09:41] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 10:09:41] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 10:09:41] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 10:09:41] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 10:09:56] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 10:09:56] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 10:09:56] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 10:09:56] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 10:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 10:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 10:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 10:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 10:09:39] [/var/www/html/testload/core/log.php] [11] I am in home hahah.
+[2018-09-14 10:09:43] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 10:09:43] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 10:09:43] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 10:09:43] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:32] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/create',
+           'actualURL' => '/testload/teacher/create',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0002</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0029</td><td bgcolor=\'#eeeeec\' align=\'right\'>441280</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0033</td><td bgcolor=\'#eeeeec\' align=\'right\'>461696</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0047</td><td bgcolor=\'#eeeeec\' align=\'right\'>553368</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0053</td><td bgcolor=\'#eeeeec\' align=\'right\'>603936</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0065</td><td bgcolor=\'#eeeeec\' align=\'right\'>690232</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0065</td><td bgcolor=\'#eeeeec\' align=\'right\'>692344</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0068</td><td bgcolor=\'#eeeeec\' align=\'right\'>717416</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0068</td><td bgcolor=\'#eeeeec\' align=\'right\'>718808</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0068</td><td bgcolor=\'#eeeeec\' align=\'right\'>719408</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:39] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:39] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:39] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 12:09:39] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:40] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/studentController.php',
+      'line' => 30,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Student',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\StudentController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\StudentController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'student/create',
+           'actualURL' => '/testload/student/create',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0003</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0035</td><td bgcolor=\'#eeeeec\' align=\'right\'>441280</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0040</td><td bgcolor=\'#eeeeec\' align=\'right\'>461696</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0057</td><td bgcolor=\'#eeeeec\' align=\'right\'>553352</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\StudentController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0064</td><td bgcolor=\'#eeeeec\' align=\'right\'>603920</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/studentController.php\' bgcolor=\'#eeeeec\'>.../studentController.php<b>:</b>30</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0081</td><td bgcolor=\'#eeeeec\' align=\'right\'>690152</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0081</td><td bgcolor=\'#eeeeec\' align=\'right\'>692264</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0086</td><td bgcolor=\'#eeeeec\' align=\'right\'>717336</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0086</td><td bgcolor=\'#eeeeec\' align=\'right\'>718728</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0086</td><td bgcolor=\'#eeeeec\' align=\'right\'>719328</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:26] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:26] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:26] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 12:09:26] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:27] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:27] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:27] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 12:09:27] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 12:09:29] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/all',
+           'actualURL' => '/testload/teacher/all',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0003</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0034</td><td bgcolor=\'#eeeeec\' align=\'right\'>441352</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0039</td><td bgcolor=\'#eeeeec\' align=\'right\'>462280</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0056</td><td bgcolor=\'#eeeeec\' align=\'right\'>553872</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0063</td><td bgcolor=\'#eeeeec\' align=\'right\'>604448</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0077</td><td bgcolor=\'#eeeeec\' align=\'right\'>690768</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0077</td><td bgcolor=\'#eeeeec\' align=\'right\'>692880</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0082</td><td bgcolor=\'#eeeeec\' align=\'right\'>717952</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0082</td><td bgcolor=\'#eeeeec\' align=\'right\'>719344</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0082</td><td bgcolor=\'#eeeeec\' align=\'right\'>719944</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:48] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:48] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:48] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 12:09:48] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:49] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'student/create',
+   'actualURL' => '/testload/student/create',
+   'method' => 'GET',
+   'input' => 
+  array (
+  ),
+))
+[2018-09-14 12:09:50] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/all',
+           'actualURL' => '/testload/teacher/all',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0003</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0039</td><td bgcolor=\'#eeeeec\' align=\'right\'>441352</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0045</td><td bgcolor=\'#eeeeec\' align=\'right\'>462280</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0065</td><td bgcolor=\'#eeeeec\' align=\'right\'>553872</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0072</td><td bgcolor=\'#eeeeec\' align=\'right\'>604448</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0089</td><td bgcolor=\'#eeeeec\' align=\'right\'>690768</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0089</td><td bgcolor=\'#eeeeec\' align=\'right\'>692880</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0094</td><td bgcolor=\'#eeeeec\' align=\'right\'>717952</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0094</td><td bgcolor=\'#eeeeec\' align=\'right\'>719344</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0095</td><td bgcolor=\'#eeeeec\' align=\'right\'>719944</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:53] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:53] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:53] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 12:09:53] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 12:09:54] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'course/create',
+   'actualURL' => '/testload/course/create',
+   'method' => 'GET',
+   'input' => 
+  array (
+  ),
+))
+[2018-09-14 12:09:57] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/create',
+           'actualURL' => '/testload/teacher/create',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0003</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0034</td><td bgcolor=\'#eeeeec\' align=\'right\'>441280</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0039</td><td bgcolor=\'#eeeeec\' align=\'right\'>461696</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0057</td><td bgcolor=\'#eeeeec\' align=\'right\'>553368</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0064</td><td bgcolor=\'#eeeeec\' align=\'right\'>603936</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0080</td><td bgcolor=\'#eeeeec\' align=\'right\'>690232</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0080</td><td bgcolor=\'#eeeeec\' align=\'right\'>692344</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0085</td><td bgcolor=\'#eeeeec\' align=\'right\'>717416</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0085</td><td bgcolor=\'#eeeeec\' align=\'right\'>718808</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0085</td><td bgcolor=\'#eeeeec\' align=\'right\'>719408</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:00] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:00] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:00] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 12:09:00] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:01] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:01] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:01] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 12:09:01] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 12:09:24] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/create',
+           'actualURL' => '/testload/teacher/create',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0003</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0035</td><td bgcolor=\'#eeeeec\' align=\'right\'>441064</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0040</td><td bgcolor=\'#eeeeec\' align=\'right\'>461504</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0057</td><td bgcolor=\'#eeeeec\' align=\'right\'>553312</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0064</td><td bgcolor=\'#eeeeec\' align=\'right\'>603824</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0080</td><td bgcolor=\'#eeeeec\' align=\'right\'>690104</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0080</td><td bgcolor=\'#eeeeec\' align=\'right\'>692216</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0085</td><td bgcolor=\'#eeeeec\' align=\'right\'>717264</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0086</td><td bgcolor=\'#eeeeec\' align=\'right\'>718656</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0086</td><td bgcolor=\'#eeeeec\' align=\'right\'>719256</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 12:09:57] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:58] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:58] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:58] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 12:09:58] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 12:09:18] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:18] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:18] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 12:09:18] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:19] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:19] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:19] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 12:09:19] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 12:09:20] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/all',
+           'actualURL' => '/testload/teacher/all',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0002</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0023</td><td bgcolor=\'#eeeeec\' align=\'right\'>441352</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0026</td><td bgcolor=\'#eeeeec\' align=\'right\'>462280</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0037</td><td bgcolor=\'#eeeeec\' align=\'right\'>553872</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0041</td><td bgcolor=\'#eeeeec\' align=\'right\'>604448</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0051</td><td bgcolor=\'#eeeeec\' align=\'right\'>690768</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0051</td><td bgcolor=\'#eeeeec\' align=\'right\'>692880</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0054</td><td bgcolor=\'#eeeeec\' align=\'right\'>717952</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0054</td><td bgcolor=\'#eeeeec\' align=\'right\'>719344</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0054</td><td bgcolor=\'#eeeeec\' align=\'right\'>719944</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:24] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/create',
+           'actualURL' => '/testload/teacher/create',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0003</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0035</td><td bgcolor=\'#eeeeec\' align=\'right\'>441064</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0040</td><td bgcolor=\'#eeeeec\' align=\'right\'>461504</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0058</td><td bgcolor=\'#eeeeec\' align=\'right\'>553312</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0065</td><td bgcolor=\'#eeeeec\' align=\'right\'>603824</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0080</td><td bgcolor=\'#eeeeec\' align=\'right\'>690104</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0080</td><td bgcolor=\'#eeeeec\' align=\'right\'>692216</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0085</td><td bgcolor=\'#eeeeec\' align=\'right\'>717264</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0085</td><td bgcolor=\'#eeeeec\' align=\'right\'>718656</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0085</td><td bgcolor=\'#eeeeec\' align=\'right\'>719256</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:26] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'teacher/create',
+   'actualURL' => '/testload/teacher/create',
+   'method' => 'GET',
+   'input' => 
+  array (
+  ),
+))
+[2018-09-14 12:09:41] [/var/www/html/testload/core/log.php] [11] Core\Request::__set_state(array(
+   'url' => 'teacher/create',
+   'actualURL' => '/testload/teacher/create',
+   'method' => 'POST',
+   'input' => 
+  array (
+    'id' => '2',
+    'name' => 'Irfan sb',
+  ),
+))
+[2018-09-14 12:09:41] [/var/www/html/testload/core/log.php] [11] Array
+(
+    [id] => 2
+    [name] => Irfan sb
+)
+
+[2018-09-14 12:09:41] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:41] [/var/www/html/testload/core/log.php] [11] Core\Models\BaseModel::__set_state(array(
+   'table' => 'teachers',
+   'primaryField' => 'id',
+   'database' => 
+  Core\Models\Database\MysqlGate::__set_state(array(
+     'pdo' => 
+    PDO::__set_state(array(
+    )),
+  )),
+   'allProperties' => 
+  array (
+    0 => 'id',
+    1 => 'name',
+  ),
+   'id' => '2',
+   'name' => 'Irfan sb',
+))
+[2018-09-14 12:09:43] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:46] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:47] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/teacherController.php',
+      'line' => 27,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Teacher',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\TeacherController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\TeacherController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'teacher/all',
+           'actualURL' => '/testload/teacher/all',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0003</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0034</td><td bgcolor=\'#eeeeec\' align=\'right\'>441352</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0039</td><td bgcolor=\'#eeeeec\' align=\'right\'>462280</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0055</td><td bgcolor=\'#eeeeec\' align=\'right\'>553872</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\TeacherController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0061</td><td bgcolor=\'#eeeeec\' align=\'right\'>604448</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/teacherController.php\' bgcolor=\'#eeeeec\'>.../teacherController.php<b>:</b>27</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0076</td><td bgcolor=\'#eeeeec\' align=\'right\'>690768</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0076</td><td bgcolor=\'#eeeeec\' align=\'right\'>692880</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0082</td><td bgcolor=\'#eeeeec\' align=\'right\'>717952</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0082</td><td bgcolor=\'#eeeeec\' align=\'right\'>719344</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0082</td><td bgcolor=\'#eeeeec\' align=\'right\'>719944</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:00] [/var/www/html/testload/core/log.php] [11] PDOException::__set_state(array(
+   'message' => 'SQLSTATE[HY000] [2002] No such file or directory',
+   'string' => '',
+   'code' => 2002,
+   'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+   'line' => 60,
+   'trace' => 
+  array (
+    0 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 60,
+      'function' => '__construct',
+      'class' => 'PDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+        3 => 
+        array (
+          3 => 2,
+          19 => 2,
+          20 => false,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/database/drivers/mysqlPDO.php',
+      'line' => 106,
+      'function' => '__construct',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    2 => 
+    array (
+      'function' => 'getConnection',
+      'class' => 'Core\\Models\\Database\\Drivers\\MysqlPDO',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+        1 => 'root',
+        2 => '123',
+      ),
+    ),
+    3 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 99,
+      'function' => 'call_user_func_array',
+      'args' => 
+      array (
+        0 => '\\Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection',
+        1 => 
+        array (
+          0 => 'mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4',
+          1 => 'root',
+          2 => '123',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'file' => '/var/www/html/testload/core/models/modelFactory.php',
+      'line' => 43,
+      'function' => 'getDatabaseInstance',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    5 => 
+    array (
+      'file' => '/var/www/html/testload/app/controllers/studentController.php',
+      'line' => 30,
+      'function' => 'createModel',
+      'class' => 'Core\\Models\\ModelFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => 'App\\Models\\Student',
+      ),
+    ),
+    6 => 
+    array (
+      'file' => '/var/www/html/testload/core/controllers/controllerFactory.php',
+      'line' => 42,
+      'function' => '__construct',
+      'class' => 'App\\Controllers\\StudentController',
+      'type' => '->',
+      'args' => 
+      array (
+      ),
+    ),
+    7 => 
+    array (
+      'file' => '/var/www/html/testload/core/router.php',
+      'line' => 125,
+      'function' => 'createController',
+      'class' => 'Core\\Controllers\\ControllerFactory',
+      'type' => '->',
+      'args' => 
+      array (
+        0 => '\\App\\Controllers\\StudentController',
+      ),
+    ),
+    8 => 
+    array (
+      'file' => '/var/www/html/testload/public/index.php',
+      'line' => 50,
+      'function' => 'handle',
+      'class' => 'Core\\Router',
+      'type' => '::',
+      'args' => 
+      array (
+        0 => 
+        Core\Request::__set_state(array(
+           'url' => 'student/all',
+           'actualURL' => '/testload/student/all',
+           'method' => 'GET',
+           'input' => 
+          array (
+          ),
+        )),
+      ),
+    ),
+  ),
+   'previous' => NULL,
+   'errorInfo' => NULL,
+   'xdebug_message' => '<tr><th align=\'left\' bgcolor=\'#f57900\' colspan="5"><span style=\'background-color: #cc0000; color: #fce94f; font-size: x-large;\'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align=\'left\' bgcolor=\'#e9b96e\' colspan=\'5\'>Call Stack</th></tr>
+<tr><th align=\'center\' bgcolor=\'#eeeeec\'>#</th><th align=\'left\' bgcolor=\'#eeeeec\'>Time</th><th align=\'left\' bgcolor=\'#eeeeec\'>Memory</th><th align=\'left\' bgcolor=\'#eeeeec\'>Function</th><th align=\'left\' bgcolor=\'#eeeeec\'>Location</th></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>1</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0002</td><td bgcolor=\'#eeeeec\' align=\'right\'>264960</td><td bgcolor=\'#eeeeec\'>{main}(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>2</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0022</td><td bgcolor=\'#eeeeec\' align=\'right\'>440952</td><td bgcolor=\'#eeeeec\'>Core\\Router::handle(  )</td><td title=\'/var/www/html/testload/public/index.php\' bgcolor=\'#eeeeec\'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>3</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0026</td><td bgcolor=\'#eeeeec\' align=\'right\'>461984</td><td bgcolor=\'#eeeeec\'>Core\\Controllers\\ControllerFactory->createController(  )</td><td title=\'/var/www/html/testload/core/router.php\' bgcolor=\'#eeeeec\'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>4</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0037</td><td bgcolor=\'#eeeeec\' align=\'right\'>553784</td><td bgcolor=\'#eeeeec\'>App\\Controllers\\StudentController->__construct(  )</td><td title=\'/var/www/html/testload/core/controllers/controllerFactory.php\' bgcolor=\'#eeeeec\'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>5</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0042</td><td bgcolor=\'#eeeeec\' align=\'right\'>604216</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->createModel(  )</td><td title=\'/var/www/html/testload/app/controllers/studentController.php\' bgcolor=\'#eeeeec\'>.../studentController.php<b>:</b>30</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>6</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0051</td><td bgcolor=\'#eeeeec\' align=\'right\'>690392</td><td bgcolor=\'#eeeeec\'>Core\\Models\\ModelFactory->getDatabaseInstance(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>7</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0051</td><td bgcolor=\'#eeeeec\' align=\'right\'>692504</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}\' target=\'_new\'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>8</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0053</td><td bgcolor=\'#eeeeec\' align=\'right\'>717552</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO::getConnection(  )</td><td title=\'/var/www/html/testload/core/models/modelFactory.php\' bgcolor=\'#eeeeec\'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>9</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0054</td><td bgcolor=\'#eeeeec\' align=\'right\'>718944</td><td bgcolor=\'#eeeeec\'>Core\\Models\\Database\\Drivers\\MysqlPDO->__construct(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor=\'#eeeeec\' align=\'center\'>10</td><td bgcolor=\'#eeeeec\' align=\'center\'>0.0054</td><td bgcolor=\'#eeeeec\' align=\'right\'>719544</td><td bgcolor=\'#eeeeec\'><a href=\'http://www.php.net/PDO.construct\' target=\'_new\'>__construct</a>
+(  )</td><td title=\'/var/www/html/testload/core/models/database/drivers/mysqlPDO.php\' bgcolor=\'#eeeeec\'>.../mysqlPDO.php<b>:</b>60</td></tr>
+',
+))
+[2018-09-14 12:09:02] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:02] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:02] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 12:09:02] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 12:09:15] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 12:09:15] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 12:09:15] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 3
+        )
+
+)
+
+[2018-09-14 12:09:15] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 12:09:21] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 7
+        )
+
+)
+
+[2018-09-14 06:09:50] [/var/www/html/testload/core/log.php] [11] Array
+(
+    [ * message] => SQLSTATE[HY000] [2002] No such file or directory
+    [ Exception string] => 
+    [ * code] => 2002
+    [ * file] => /var/www/html/testload/core/models/database/drivers/mysqlPDO.php
+    [ * line] => 60
+    [ Exception trace] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /var/www/html/testload/core/models/database/drivers/mysqlPDO.php
+                    [line] => 60
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4
+                            [1] => root
+                            [2] => 123
+                            [3] => Array
+                                (
+                                    [3] => 2
+                                    [19] => 2
+                                    [20] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /var/www/html/testload/core/models/database/drivers/mysqlPDO.php
+                    [line] => 106
+                    [function] => __construct
+                    [class] => Core\Models\Database\Drivers\MysqlPDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4
+                            [1] => root
+                            [2] => 123
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [function] => getConnection
+                    [class] => Core\Models\Database\Drivers\MysqlPDO
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4
+                            [1] => root
+                            [2] => 123
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /var/www/html/testload/core/models/modelFactory.php
+                    [line] => 99
+                    [function] => call_user_func_array
+                    [args] => Array
+                        (
+                            [0] => \Core\Models\Database\Drivers\MysqlPDO::getConnection
+                            [1] => Array
+                                (
+                                    [0] => mysql:host=localhost;port=3306;dbname=test;charset=utf8mb4
+                                    [1] => root
+                                    [2] => 123
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /var/www/html/testload/core/models/modelFactory.php
+                    [line] => 43
+                    [function] => getDatabaseInstance
+                    [class] => Core\Models\ModelFactory
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [file] => /var/www/html/testload/app/controllers/studentController.php
+                    [line] => 30
+                    [function] => createModel
+                    [class] => Core\Models\ModelFactory
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => App\Models\Student
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [file] => /var/www/html/testload/core/controllers/controllerFactory.php
+                    [line] => 42
+                    [function] => __construct
+                    [class] => App\Controllers\StudentController
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [file] => /var/www/html/testload/core/router.php
+                    [line] => 125
+                    [function] => createController
+                    [class] => Core\Controllers\ControllerFactory
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => \App\Controllers\StudentController
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [file] => /var/www/html/testload/public/index.php
+                    [line] => 50
+                    [function] => handle
+                    [class] => Core\Router
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Core\Request Object
+                                (
+                                    [url:Core\Request:private] => student/all
+                                    [actualURL:Core\Request:private] => /testload/student/all
+                                    [method:Core\Request:private] => GET
+                                    [input:Core\Request:private] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ Exception previous] => 
+    [errorInfo] => 
+    [xdebug_message] => <tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> PDOException: SQLSTATE[HY000] [2002] No such file or directory in /var/www/html/testload/core/models/database/drivers/mysqlPDO.php on line <i>60</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0004</td><td bgcolor='#eeeeec' align='right'>264944</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/var/www/html/testload/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0055</td><td bgcolor='#eeeeec' align='right'>440992</td><td bgcolor='#eeeeec'>Core\Router::handle(  )</td><td title='/var/www/html/testload/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>50</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>0.0064</td><td bgcolor='#eeeeec' align='right'>462024</td><td bgcolor='#eeeeec'>Core\Controllers\ControllerFactory->createController(  )</td><td title='/var/www/html/testload/core/router.php' bgcolor='#eeeeec'>.../router.php<b>:</b>125</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>0.0089</td><td bgcolor='#eeeeec' align='right'>553920</td><td bgcolor='#eeeeec'>App\Controllers\StudentController->__construct(  )</td><td title='/var/www/html/testload/core/controllers/controllerFactory.php' bgcolor='#eeeeec'>.../controllerFactory.php<b>:</b>42</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>0.0099</td><td bgcolor='#eeeeec' align='right'>604432</td><td bgcolor='#eeeeec'>Core\Models\ModelFactory->createModel(  )</td><td title='/var/www/html/testload/app/controllers/studentController.php' bgcolor='#eeeeec'>.../studentController.php<b>:</b>30</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>0.0121</td><td bgcolor='#eeeeec' align='right'>690688</td><td bgcolor='#eeeeec'>Core\Models\ModelFactory->getDatabaseInstance(  )</td><td title='/var/www/html/testload/core/models/modelFactory.php' bgcolor='#eeeeec'>.../modelFactory.php<b>:</b>43</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>0.0122</td><td bgcolor='#eeeeec' align='right'>692800</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.call-user-func-array:{/var/www/html/testload/core/models/modelFactory.php:99}' target='_new'>call_user_func_array:{/var/www/html/testload/core/models/modelFactory.php:99}</a>
+(  )</td><td title='/var/www/html/testload/core/models/modelFactory.php' bgcolor='#eeeeec'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>0.0129</td><td bgcolor='#eeeeec' align='right'>717848</td><td bgcolor='#eeeeec'>Core\Models\Database\Drivers\MysqlPDO::getConnection(  )</td><td title='/var/www/html/testload/core/models/modelFactory.php' bgcolor='#eeeeec'>.../modelFactory.php<b>:</b>99</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>0.0129</td><td bgcolor='#eeeeec' align='right'>719240</td><td bgcolor='#eeeeec'>Core\Models\Database\Drivers\MysqlPDO->__construct(  )</td><td title='/var/www/html/testload/core/models/database/drivers/mysqlPDO.php' bgcolor='#eeeeec'>.../mysqlPDO.php<b>:</b>106</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>0.0129</td><td bgcolor='#eeeeec' align='right'>719840</td><td bgcolor='#eeeeec'><a href='http://www.php.net/PDO.construct' target='_new'>__construct</a>
+(  )</td><td title='/var/www/html/testload/core/models/database/drivers/mysqlPDO.php' bgcolor='#eeeeec'>.../mysqlPDO.php<b>:</b>60</td></tr>
+
+)
+
+[2018-09-14 06:09:07] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 06:09:07] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 06:09:07] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 06:09:07] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-14 06:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 1
+        )
+
+)
+
+[2018-09-14 06:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 2
+        )
+
+)
+
+[2018-09-14 06:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 4
+        )
+
+)
+
+[2018-09-14 06:09:40] [/var/www/html/testload/core/models/baseModel.php] [74] Array
+(
+    [0] => Array
+        (
+            [0] => id
+            [1] => =
+            [2] => 5
+        )
+
+)
+
+[2018-09-17 10:09:07] [/var/www/html/testload/core/log.php] [11] I am in home hahah.
+[2018-09-17 10:09:33] [/var/www/html/testload/core/log.php] [11] I am in home hahah.

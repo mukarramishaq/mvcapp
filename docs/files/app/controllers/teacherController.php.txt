@@ -1,0 +1,14 @@
+<?php
+/**
+ * file contains class definition of TeacherController.
+ * @author Mukarram Ishaq
+ */
+namespace App\Controllers;
+/**
+ * Class TeacherController
+ * @package App\Controllers
+ */
+class TeacherController extends Core\Controllers\BaseController
+{
+
+}

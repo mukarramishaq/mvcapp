@@ -1,0 +1,36 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: mukarram.ishaq
+ * Date: 9/7/18
+ * Time: 5:22 PM
+ */
+
+namespace Core\Controllers;
+
+use Core\Controllers\BaseController;
+
+class BaseControllerTest extends PHPUnit_Framework_TestCase
+{
+
+    public function testHandle()
+    {
+
+    }
+
+    public function testBeforeAction()
+    {
+
+    }
+
+    public function testValidate()
+    {
+
+    }
+
+    public function testAfterAction()
+    {
+
+    }
+}
+

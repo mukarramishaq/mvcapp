@@ -1,0 +1,94 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: mukarram.ishaq
+ * Date: 9/7/18
+ * Time: 5:21 PM
+ */
+
+namespace Test\Core\Controllers;
+
+use Core\Controllers\ControllerFactory;
+use PHPUnit\Framework\TestCase;
+
+/**
+ * Class ControllerFactoryTest
+ * @package Core\Controllers
+ */
+class ControllerFactoryTest extends TestCase
+{
+    private $controllerFactory = null;
+
+    public function setUp()
+    {
+        $this->controllerFactory = new ControllerFactory();
+    }
+
+    public function tearDown()
+    {
+        unset($this->controllerFactory);
+    }
+
+    /**
+     * @return array
+     */
+    public function createsControllerFunctionCreatesControllerSuccessfullyDataProvider()
+    {
+        return array(
+            '\\App\\Controllers\\StudentController',
+            '\\App\\Controllers\\TeacherController',
+            '\\App\\Controllers\\CourseController'
+        );
+    }
+
+    /**
+     * @return array
+     */
+    public function createsControllerFunctionThrowsExceptionDataProvider()
+    {
+        return [
+            "\\App\\StudentController",
+            "\\App\\Controllers\\TeacherController2",
+            "\\App\\Controllers\\ControllerTemp"
+        ];
+    }
+
+
+    /**
+     * @param $controllerName
+     * @dataProvider createsControllerFunctionCreatesControllerSuccessfullyDataProvider
+     */
+    public function testCreateControllerFunctionCreatesControllerSuccessfully($controllerName)
+    {
+        try {
+            $this->controllerFactory->createController($controllerName);
+        } catch (Exception $e) {
+            $this->assertTrue(false);
+        }
+    }
+
+    /**
+     * @param $controllerName
+     * @dataProvider createsControllerFunctionThrowsExceptionDataProvider
+     */
+    public function testCreateControllerFunctionThrowsException($controllerName)
+    {
+        try {
+            $this->controllerFactory->createController($controllerName);
+            $this->assertTrue(false);
+        } catch (\ClassNotFoundException $e) {
+            $this->assertTrue(true);
+        } catch (\InvalidArgumentException $e) {
+            $this->assertTrue(true);
+        } catch (Exception $e) {
+            $this->assertTrue(false);
+        }
+        $this->assertTrue(false);
+    }
+
+    public function test__construct()
+    {
+        $this->assertInstanceOf('Core\\Controllers\\ControllerFactory', $this->controllerFactory);
+    }
+}
+

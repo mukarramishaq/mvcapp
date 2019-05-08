@@ -1,0 +1,115 @@
+<?php
+/**
+*Router file contain definition of Router Class.
+*
+*Router file defines the body of Router Class and its 
+*necessary functions and attributes
+*
+*@author Mukarram Ishaq
+*/
+namespace Core;
+
+
+use Core\Request;
+
+/**
+*Router Class.
+*
+*Router class contains attribute and methods.
+*
+*@access public
+*@version 1.0
+*@author Mukarram Ishaq
+*/
+class Router
+{
+    /**
+    *$routes keeps all the routes and their information.
+    *
+    *$routes is an associative array which keeps information
+    * of routes in a key values pairs.
+    *
+    *@var array $routes
+    *@access protected
+    *@static
+    */
+    protected static $routes = null;
+    
+    /**
+    *init function initializes the resources.
+    *
+    *init function is a static function and it
+    *initializes all the static resources in this
+    *Router Class.
+    *
+    *@param void
+    *@access public
+    *@static
+    *@return void
+    */
+    public static function init()
+    {
+        self::$routes = array();
+    }
+
+    /**
+    *remember function will keep the route and its informations.
+    *
+    *remember function stores the route and its other information
+    *like controller, action etc in the $routes array.
+    *
+    *@param string $route
+    *@param array $handler
+    *@access public
+    *@static
+    *@return void
+    */
+    public static function remember($route, array $handler)
+    {
+        //if url params are given then count them too.
+        if (isset($handler['url_params'])) {
+            $handler['no_of_url_params'] = count($handler['url_params']);
+        }
+        //self::$gets[$route] = $handler;
+        self::$routes[$route] = $handler;
+    }
+
+    /**
+    *handle function will route will the request.
+    *
+    *handle function accepts object of Core\Request class
+    * and will forward to its legit controller.
+    *
+    *@param \Core\Request $request
+    *@access public
+    *@static
+    *@return void
+    */
+    public static function handle(Request $request)
+    {
+        $isRouteFound = false;
+        //determine its actual path
+        //and controller to handle
+        //this request
+        foreach (self::$routes as $route => $handler) {
+            //determine the route of request
+            if (strncmp($route, $request->url, strlen($route)) !== 0) {
+                //route not found so continue to next route
+                continue;
+            } else {
+                //route found
+                $isRouteFound = true;
+
+                echo $route.'<br>';
+                var_dump($handler).'<br>';
+            }
+
+        }
+        //if $isRouteFound is false
+        if ($isRouteFound === false) {
+            //route to notFoundController or notFoundAction
+            echo '<center><h1>Error 404: NOT FOUND!</h1></center>';
+        }
+    }
+
+}

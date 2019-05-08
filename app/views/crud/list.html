@@ -1,0 +1,44 @@
+
+<?php include $GLOBALS['config']['parent_directory_of_views']."layouts/header.html"; ?>
+<!-- Page Content -->
+<p id="page-content-wrapper">
+    <div class="container-fluid">
+    <a class="btn btn-info" href="create">Create</a>
+    <br><br>
+        <?php if (isset($data['none'])) { ?>
+            <span class="alert alert-info"><?= $data['none'] ?></span>
+        <?php } else { ?>
+        <table class="table">
+            <thead>
+                <?php foreach($data['all'][0]->allProperties as $property) {
+                    echo <<<EOH
+                    <th>{$property}</th>
+EOH;
+                }?>
+            </thead>
+            <tr>
+                <?php foreach($data['all'] as $object) {
+                    echo "<tr>";
+                    foreach ($object->allProperties as $property) {
+                        echo <<<EOH
+                        </EOH><td>{$object->$property}</td>
+EOH;
+                    }
+                //show view button
+                echo "<td><a href='$object->id'>View</a></td>";
+                //show edit option
+                echo "<td><a href='update/$object->id'>Edit</a></td>";
+                //show delete option
+                echo "<td><a href='delete/$object->id' class='label-danger'>Delete</a></td>";
+                echo "</tr>";
+                }?>
+            </tbody>
+        </table>
+        <?php } ?>
+    </div>
+</div>
+<!-- /#page-content-wrapper -->
+
+<?php include $GLOBALS['config']['parent_directory_of_views']."layouts/footer.html"; ?>
+
+

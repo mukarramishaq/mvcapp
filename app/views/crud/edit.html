@@ -1,0 +1,24 @@
+
+<?php include $GLOBALS['config']['parent_directory_of_views']."layouts/header.html"; ?>
+<!-- Page Content -->
+<div id="page-content-wrapper">
+    <div class="container-fluid">
+        <form action= <?php echo $data['action'] ?> method="post">
+            <?php $object = $data['object'];
+            foreach ($object->allProperties as $property) {
+                echo <<<EOP
+            <div class="form-group">
+                <label for="id-{$property}">$property</label>
+                <input type="text" class="form-control" id="id-{$property}" name="{$property}" placeholder="Enter {$property}" value="{$object->$property}">
+            </div>
+EOP;
+            }?>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+<!-- /#page-content-wrapper -->
+
+<?php include $GLOBALS['config']['parent_directory_of_views']."layouts/footer.html"; ?>
+
+

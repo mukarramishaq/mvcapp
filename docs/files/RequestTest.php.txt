@@ -1,0 +1,71 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: mukarram.ishaq
+ * Date: 9/6/18
+ * Time: 5:24 PM
+ */
+
+
+namespace Core;
+
+use PHPUnit\Framework\TestCase;
+use Core\Request;
+
+/**
+ * Class RequestTest
+ * @package Core
+ */
+class RequestTest extends TestCase
+{
+    /**
+     * @var \Core\Request $request
+     */
+    private $request = null;
+    private $url = null;
+
+    public function setUp()
+    {
+        $this->url = 'testload/student/show';
+        $this->request = new Request($this->url, 'GET', []);
+    }
+
+    public function testSetURL()
+    {
+        $this->request->setURL($this->url.'/test1/test2');
+        $this->assertEquals($this->url.'/test1/test2', $this->request->getURL());
+    }
+
+    public function test__construct()
+    {
+        $this->assertInstanceOf('Core\Request', $this->request);
+    }
+
+    public function testSetInput()
+    {
+        $this->request->setInput(["abc"=>"123"]);
+        $this->assertEquals(["abc"=>"123"], $this->request->getInput());
+    }
+
+    public function testGetInput()
+    {
+        $this->assertEquals([], $this->request->getInput());
+    }
+
+    public function testGetMethod()
+    {
+        $this->assertEquals('GET', $this->request->getMethod());
+    }
+
+    public function testSetMethod()
+    {
+        $this->request->setMethod('POST');
+        $this->assertEquals('POST', $this->request->getMethod());
+    }
+
+    public function testGetURL()
+    {
+        $this->assertEquals($this->url, $this->request->getURL());
+    }
+}
+

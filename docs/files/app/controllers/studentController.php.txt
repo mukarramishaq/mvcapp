@@ -1,0 +1,29 @@
+<?php
+/**
+*Student Controller class resides in this class.
+*
+*@author Mukarram Ishaq
+*/
+namespace App\Controllers;
+
+use Core\Controllers\BaseController;
+use Core\Request;
+/**
+*StudentController Class.
+*
+*StudentController handles all the routes of CRUD operations 
+*relating to student
+*/
+class StudentController extends BaseController
+{
+    /**
+    *Index is the default action of this controller
+    *@param void
+    *@return void
+    */
+    public function index(Request $request, $id, $abd)
+    {
+        echo 'Hello I am index from StudentController<br>';
+        echo "$id<<>>$abd";
+    }
+}

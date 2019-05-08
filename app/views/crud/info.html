@@ -1,0 +1,10 @@
+<?php include $GLOBALS['config']['parent_directory_of_views']."layouts/header.html"; ?>
+<!-- Page Content -->
+<div id="page-content-wrapper">
+    <div class="container-fluid">
+       <span class= "<?= 'alert alert-'.$data['type'] ?>" > <?= $data['info'] ?></span>
+    </div>
+</div>
+<!-- /#page-content-wrapper -->
+
+<?php include $GLOBALS['config']['parent_directory_of_views']."layouts/footer.html"; ?>

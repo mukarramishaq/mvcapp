@@ -1,0 +1,53 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: mukarram.ishaq
+ * Date: 9/6/18
+ * Time: 4:41 PM
+ */
+
+namespace Core;
+
+use Core\RequestMaker;
+use PHPUnit\Framework\TestCase;
+
+/**
+ * Class RequestMakerTest
+ * @package Core
+ */
+class RequestMakerTest extends TestCase
+{
+    public function setUp()
+    {
+        //create URLParser mock object
+        $urlParserStub = $this->getMock('Core\Utils\URLParser');
+        //add removePrefixFromURL function
+        $urlParserStub->method('removePrefixFromURL')
+            ->will($this->returnArgument(0));
+        //add stripSlashes function
+        $urlParserStub->method('stripSlashes')
+            ->will($this->returnArgument(0));
+        //set URLParsre Stub
+        RequestMaker::setURLParser($urlParserStub);
+        RequestMaker::setURLPrefix('/testload/');
+
+        $_SERVER['REQUEST_URI'] = '/testload/student/show/10';
+        $_SERVER['REQUEST_METHOD'] = 'GET';
+    }
+
+    public function testMakeReturnRequestObject()
+    {
+        $this->assertInstanceOf('Core\Request', RequestMaker::make());
+    }
+
+    public function testSetURLParser()
+    {
+        $this->assertInstanceOf('Core\Utils\URLParser', RequestMaker::$urlParser);
+    }
+
+    public function testSetURLPrefix()
+    {
+        $this->assertEquals('/testload/', RequestMaker::$urlPrefix);
+    }
+}
+

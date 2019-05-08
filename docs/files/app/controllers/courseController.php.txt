@@ -1,0 +1,16 @@
+<?php
+/**
+ * file contains CourseController Class.
+ * @author Mukarram Ishaq
+ */
+
+namespace App\Controllers;
+
+/**
+ * Class CourseController
+ * @package App\Controllers
+ */
+class CourseController extends Core\Controllers\BaseController
+{
+
+}

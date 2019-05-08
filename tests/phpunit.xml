@@ -1,0 +1,40 @@
+<phpunit
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/6.3/phpunit.xsd"
+        backupGlobals="true"
+        backupStaticAttributes="false"
+        bootstrap="bootstrap.php"
+        cacheTokens="false"
+        colors="true"
+        convertErrorsToExceptions="true"
+        convertNoticesToExceptions="true"
+        convertWarningsToExceptions="true"
+        mapTestClassNameToCoveredClassName="false"
+        processIsolation="false"
+        stopOnError="false"
+        stopOnFailure="false"
+        stopOnIncomplete="false"
+        stopOnSkipped="false"
+        stopOnRisky="false"
+        timeoutForSmallTests="1"
+        timeoutForMediumTests="10"
+        timeoutForLargeTests="60"
+        verbose="false">
+
+    <testsuites>
+
+        <testsuite name="core">
+            <directory>./core</directory>
+        </testsuite>
+    </testsuites>
+    
+    <filter>
+        <!-- Define the whitelist for the code coverage report -->
+        <whitelist>
+            <!-- Please include the directories and files in which you have written the code -->
+            <directory suffix=".php">../app</directory>
+            <directory suffix=".php">../core</directory>
+        </whitelist>
+    </filter>
+
+</phpunit>
